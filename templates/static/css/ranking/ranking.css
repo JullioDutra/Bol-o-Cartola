@@ -1,0 +1,23 @@
+body {
+    background-color: #1A1A1A;
+    color: #F5F5F5;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+  }
+  .container {
+    margin-top: 2rem;
+  }
+  .ranking-title {
+    color: #FFD700;
+    margin-bottom: 1.5rem;
+  }
+  .table thead {
+    background-color: #000;
+    color: #FFD700;
+  }
+  .table tbody tr {
+    background-color: #2E2E2E;
+  }
+  /* Garante que os dados do participante fiquem em branco */
+  .white-text {
+    color: #FFFFFF !important;
+  }

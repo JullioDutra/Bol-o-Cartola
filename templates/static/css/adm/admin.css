@@ -1,0 +1,33 @@
+body {
+    background-color: #1A1A1A;
+    color: #F5F5F5;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+  }
+  .header {
+    text-align: center;
+    padding: 2rem;
+    background: #000;
+  }
+  .header h1 {
+    color: #FFD700;
+  }
+  .container-form {
+    margin: 2rem auto;
+    max-width: 800px;
+    background-color: #2E2E2E;
+    border-radius: 8px;
+    padding: 2rem;
+  }
+  .form-label {
+    font-weight: 600;
+    color: #FFD700;
+  }
+  .btn-custom {
+    background-color: #FFD700;
+    color: #000;
+    font-weight: bold;
+    border: none;
+  }
+  .btn-custom:hover {
+    background-color: #FFC200;
+  }
